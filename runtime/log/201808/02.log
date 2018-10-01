@@ -1,0 +1,244 @@
+---------------------------------------------------------------
+[ 2018-08-02T08:31:52+08:00 ] 127.0.0.1 GET /index.php/index/index/index
+[ info ] www.adsapi.com/index.php/index/index/index [运行时间：0.075005s][吞吐率：13.33req/s] [内存消耗：1,440.17kb] [文件加载：43]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\PHPTutorial\WWW\adsAPI\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T08:32:08+08:00 ] 127.0.0.1 POST /index.php/index/index/test.html
+[ info ] www.adsapi.com/index.php/index/index/test.html [运行时间：0.055003s][吞吐率：18.18req/s] [内存消耗：1,280.41kb] [文件加载：40]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'content-length' => '32',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.adsapi.com/index.php/index/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+  'lng' => '121.14774874',
+  'lat' => '41.13087888',
+)
+[ info ] [ RUN ] app\index\controller\Index->test[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T08:33:44+08:00 ] 127.0.0.1 GET /index.php/index/index/index
+[ info ] www.adsapi.com/index.php/index/index/index [运行时间：0.071004s][吞吐率：14.08req/s] [内存消耗：1,323.59kb] [文件加载：41]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\PHPTutorial\WWW\adsAPI\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T08:33:46+08:00 ] 127.0.0.1 POST /index.php/index/index/test.html
+[ info ] www.adsapi.com/index.php/index/index/test.html [运行时间：0.059004s][吞吐率：16.95req/s] [内存消耗：1,280.68kb] [文件加载：40]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'content-length' => '32',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.adsapi.com/index.php/index/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+  'lng' => '121.14774874',
+  'lat' => '41.13087888',
+)
+[ info ] [ RUN ] app\index\controller\Index->test[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T10:14:32+08:00 ] 127.0.0.1 GET /index.php/index/index/index
+[ info ] www.adsapi.com/index.php/index/index/index [运行时间：0.069003s][吞吐率：14.49req/s] [内存消耗：1,440.67kb] [文件加载：43]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\PHPTutorial\WWW\adsAPI\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T10:14:34+08:00 ] 127.0.0.1 POST /index.php/index/index/test.html
+[ info ] www.adsapi.com/index.php/index/index/test.html [运行时间：0.062004s][吞吐率：16.13req/s] [内存消耗：1,280.66kb] [文件加载：40]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'content-length' => '32',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.adsapi.com/index.php/index/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+  'lng' => '121.14774874',
+  'lat' => '41.13087888',
+)
+[ info ] [ RUN ] app\index\controller\Index->test[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T10:14:47+08:00 ] 127.0.0.1 GET /index.php/index/index/index
+[ info ] www.adsapi.com/index.php/index/index/index [运行时间：0.054003s][吞吐率：18.52req/s] [内存消耗：1,440.58kb] [文件加载：43]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ VIEW ] C:\PHPTutorial\WWW\adsAPI\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-02T10:14:48+08:00 ] 127.0.0.1 POST /index.php/index/index/test.html
+[ info ] www.adsapi.com/index.php/index/index/test.html [运行时间：0.064004s][吞吐率：15.62req/s] [内存消耗：1,280.68kb] [文件加载：40]
+[ info ] [ LANG ] C:\PHPTutorial\WWW\adsAPI\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'content-length' => '32',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://www.adsapi.com/index.php/index/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0',
+  'host' => 'www.adsapi.com',
+)
+[ info ] [ PARAM ] array (
+  'lng' => '121.14774874',
+  'lat' => '41.13087888',
+)
+[ info ] [ RUN ] app\index\controller\Index->test[ C:\PHPTutorial\WWW\adsAPI\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
